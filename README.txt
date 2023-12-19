@@ -16,3 +16,5 @@ Git Steps
 Commands:
 git branch = show available branchs
 git switch [branch_name] = switch to another branch 
+git add . = add all files/folders
+git commit -m "add message here" = commit is to add code to branch, -m is to add message
