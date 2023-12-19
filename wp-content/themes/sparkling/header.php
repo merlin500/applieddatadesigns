@@ -38,7 +38,7 @@ if ( isset( $_SERVER['HTTP_USER_AGENT'] ) && ( strpos( $_SERVER['HTTP_USER_AGENT
 
 </head>
 <!-- Modal -->
-
+<!-- HERE IS A CHANGE -->
 <body <?php body_class(); ?>>
 	<?php wp_body_open(); ?>
 <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
